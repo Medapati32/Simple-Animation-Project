@@ -1,0 +1,17 @@
+body{
+    background: url("bg.jpg");
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.name{
+    background-color: green;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 7px;
+}
+/* h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color:aqua
+} */
